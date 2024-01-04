@@ -35,7 +35,7 @@ Mario Minigame é um jogo que você controla o mario cujo o objetivo é evitar c
 
 O meu objetivo foi homenagear e ao mesmo tempo praticar o meu conhecimento e criatividade,recriando um trecho do jogo que me trouxe muita alegria na infância.👻
 
-- [Acesse o projeto finalizado, online](https://wlamiralves.github.io/devlinks/)
+- [Acesse o projeto finalizado, online](https://wlamiralves.github.io/mariominigame/)
 
 ## ⚙ Layout
 
