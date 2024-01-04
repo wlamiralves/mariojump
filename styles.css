@@ -65,4 +65,10 @@ button:hover {
                 bottom: 0;
             }
 
-            
+           .clouds {
+            width: 550px;
+            position: absolute;
+            top: 0;
+            animation: clouds-animation 20s infinite linear;
+           } 
+           
