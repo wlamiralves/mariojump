@@ -14,7 +14,7 @@
     background: linear-gradient(#87CEEB, #E0F6FF);
 }
 
-button{
+button {
     background: green;
     color: white;
     font-weight: bold;
@@ -59,7 +59,7 @@ button:hover {
     width: 80px;
 }
 
-.mario {
+.mario{
     width: 150px;
     position: absolute;
     bottom: 0;
@@ -76,7 +76,6 @@ button:hover {
     from {
         right: -550px;
     }
-
     to {
         right: 100%;
     }
@@ -92,7 +91,7 @@ button:hover {
     }
 
     to {
-       right: 100%; 
+        right: 100%;
     }
 }
 
@@ -102,7 +101,7 @@ button:hover {
 
 @keyframes jump {
     0% {
-        bottom: 0;
+        bottom:0;
     }
 
     40% {
@@ -117,7 +116,7 @@ button:hover {
         bottom: 200px;
     }
 
-    100%{
+    100% {
         bottom: 0;
     }
 }
