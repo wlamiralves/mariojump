@@ -51,4 +51,12 @@ button:hover {
             text-align: center;
             margin-top: 15rem;
             }
+
+            .pipe {
+                position: absolute;
+                bottom: 0;
+                right: -80px;
+                width: 80px;
+            }
+
             
