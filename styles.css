@@ -76,6 +76,7 @@ button:hover {
             from{
                 right: -550px;
             }
+            
             to{
                 right: 100%;
             }
@@ -89,8 +90,33 @@ button:hover {
             from{
                 right: -80px;
             }
+
             to {
                 right: 100%;
             }
            }
             
+           .jump {
+            animation: jump 800ms ease-out;
+           }
+
+           @keyframes jump {
+            0% {
+                bottom: 0;
+            }
+
+            40% {
+                bottom: 200px;
+            }
+
+            50% {
+                bottom: 200px;
+            }
+
+            60% {
+                bottom: 200px;
+            }
+            100% {
+                bottom: 0px;
+            }
+           }
