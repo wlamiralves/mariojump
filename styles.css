@@ -120,3 +120,17 @@ button:hover {
         bottom: 0;
     }
 }
+
+.score {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.8rem;
+}
+
+.score--value {
+    font-weight: 700;
+    font-size: 2.0rem;
+    display: block;
+    margin-top: -10px;
+}

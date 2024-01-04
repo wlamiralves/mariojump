@@ -17,6 +17,7 @@ const startGame = () => {
 }
 
 const restartGame = () => {
+  score.innerText = "00"
   gameOver.style.display = 'none'
   pipe.style.left = ''
   pipe.style.right = '0'
@@ -35,8 +36,8 @@ const restartGame = () => {
 }
 
 const jump = () => {
+    incrementScore()
   mario.classList.add('jump')
-
   setTimeout(() => {
     mario.classList.remove('jump')
   }, 800)
@@ -101,3 +102,10 @@ document.addEventListener('keypress', e => {
     startGame()
   }
 })
+
+const score = document.querySelector(".score--value")
+const finalScore = document.querySelector(".final-score > span")
+
+const incrementScore = () => {
+    score.innerText = +score.innerText + 1
+}
