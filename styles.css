@@ -80,4 +80,17 @@ button:hover {
                 right: 100%;
             }
            }
-           
+
+           .pipe-animation {
+            animation: pipe-animation 2s infinite linear;
+           }
+
+           @keyframes pipe-animation {
+            from{
+                right: -80px;
+            }
+            to {
+                right: 100%;
+            }
+           }
+            
