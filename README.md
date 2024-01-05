@@ -33,7 +33,7 @@ Esse Projeto foi desenvolvido com as seguintes tecnologias:
 
 Mario Minigame é um jogo que você controla o mario cujo o objetivo é evitar colidir no cano, salte e respectivamente marcará pontos no placar localizado acima do jogo. 
 
-O meu objetivo foi homenagear e ao mesmo tempo praticar o meu conhecimento e criatividade, recriando um trecho do jogo que me trouxe muita alegria na infância; e também porquê tenho interesse em desenvolver jogos.
+O meu objetivo foi homenagear e ao mesmo tempo praticar o meu conhecimento e criatividade, recriando um trecho do jogo que me trouxe muita alegria na infância; tenho interesse em desenvolver jogos.
 
 - [Acesse o projeto finalizado, online](https://wlamiralves.github.io/mariominigame/)
 
