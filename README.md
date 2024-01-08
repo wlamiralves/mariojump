@@ -1,4 +1,4 @@
-<h1 align="center"> 🎮 Mario Minigame </h1>
+<h1 align="center"> 🎮 Mario Jump </h1>
 
 <p align="center">
 Guia do que foi usado para realizar este projeto.
@@ -31,7 +31,7 @@ Esse Projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Mario Minigame é um jogo que você controla o mario cujo o objetivo é evitar colidir no cano, salte e respectivamente marcará pontos no placar localizado acima do jogo. 
+Mario Jump é um jogo que você controla o mario cujo o objetivo é evitar colidir no cano, salte e respectivamente marcará pontos no placar localizado acima do jogo. 
 
 O meu objetivo foi homenagear e ao mesmo tempo praticar o meu conhecimento e criatividade, recriando um trecho do jogo que me trouxe muita alegria na infância; tenho interesse em desenvolver jogos.
 
