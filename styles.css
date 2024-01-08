@@ -5,6 +5,7 @@
 }
 
 .game{
+    max-width: 588px;
     width: 100%;
     height: 100vh;
     border-bottom: 30px solid green;
@@ -34,6 +35,7 @@ button:hover {
 }
 
 .game-over {
+    max-width: 588px;
     width: 100%;
     height: 100vh;
     background: rgba(0, 0, 0, 0.322);
@@ -137,7 +139,7 @@ button:hover {
 
 
 /* media queries */
-@media (min-width: 700px) {
+@media (min-width: 667px) {
     .game {
         width: 100%;
         height: 100vh;
@@ -161,4 +163,3 @@ button:hover {
         left: 0;
       }
   }
-  
